@@ -1,0 +1,22 @@
+{
+  "name": "furrygame",
+  "version": "1.0.0",
+  "description": "> Pamiętaj o:\r > - ```npm init```\r > - Zainstalowaniu Webpacka.\r > - Ustawieniu Webpacka, plikiem wejściowym ma być `js/app.js`, wyjściowym `js/out.js`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokerTuna/WAR_FRO_S_16_Furry_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PokerTuna/WAR_FRO_S_16_Furry_game/issues"
+  },
+  "homepage": "https://github.com/PokerTuna/WAR_FRO_S_16_Furry_game#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  }
+}

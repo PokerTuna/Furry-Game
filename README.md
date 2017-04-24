@@ -1,5 +1,5 @@
 # Furry-Game
-Simple HTML5/CSS/Java Script game created during Coders Lab Programming Bootcamp
+Simple HTML5/CSS/JavaScript game created during Coders Lab Programming Bootcamp
 
 # Rules
 
